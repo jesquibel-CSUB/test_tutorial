@@ -1,5 +1,5 @@
 # Show_allblocks
-### @flyoutOnly true
+
 # Title
 
 ## Step 1
